@@ -6,7 +6,8 @@
 
 Wish your changelog was automatically generated for you, like so?
 
-![Hockey Changelog](assets/hockey_changelog.png)
+
+<img src="assets/jira_comment.png" alt="comment" width="350"/>
 
 **Do you manually comment about automated events on your tickets?**
 
