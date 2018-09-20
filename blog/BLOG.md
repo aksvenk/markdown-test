@@ -6,14 +6,13 @@
 
 Wish your changelog was automatically generated for you, like so?
 
-><ul>&#x000A;<li><a href="https://tools.outware.com.au/browse/CER-1">CER-1</a> - Test story to reference</li>&#x000A;<li><a href="https://tools.outware.com.au/browse/CER-23">CER-23</a> - Context path support for jira links</li>&#x000A;<li><a href="https://tools.outware.com.au/browse/CER-25">CER-25</a> - Turn cerberus into a plugin</li>&#x000A;</ul>&#x000A;&#x000A;<p><a href="https://ci.omdev.io/job/Outware%20Team%20Branch%20Builder/job/omproject-ios-swift-cerberus/job/develop/58/">Build #58</a></p>
+![Hockey Changelog](assets/hockey_changelog.png)
 
 **Do you manually comment about automated events on your tickets?**
 
 Wish your ticket automatically receive a comment about build and deploy events, like so?
 
->Jenkins: <a href="https://jenkins.io/" class="external-link" rel="nofollow">Build #58</a><br>
-HockeyApp: <a href="https://hockeyapp.net" class="external-link" rel="nofollow">Version 1.0 (58)</a>
+![Jira Comment](assets/jira_comment.png)
 
 read on, you may find this tool useful.
 
