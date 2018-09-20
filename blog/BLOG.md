@@ -12,8 +12,6 @@ Wish your changelog was automatically generated for you, like so?
 
 Wish your ticket automatically receive a comment about build and deploy events, like so?
 
-><img src="assets/jenkins_avatar.png" alt="jenkins"> CI Bot added a comment - 07/Sep/18 12:08 PM<br>
-> <br>
 >Jenkins: <a href="https://jenkins.io/" class="external-link" rel="nofollow">Build #58</a><br>
 HockeyApp: <a href="https://hockeyapp.net" class="external-link" rel="nofollow">Version 1.0 (58)</a>
 
