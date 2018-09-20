@@ -7,13 +7,13 @@
 Wish your changelog was automatically generated for you, like so?
 
 
-<img src="assets/hockey_changelog.png" alt="changelog" width="350"/>
+<img src="assets/hockey_changelog.png" alt="changelog" width="320"/>
 
 **Do you manually comment about automated events on your tickets?**
 
 Wish your ticket automatically receive a comment about build and deploy events, like so?
 
-<img src="assets/jira_comment.png" alt="Jira Comment" width="350"/>
+<img src="assets/jira_comment.png" alt="Jira Comment" width="320"/>
 
 read on, you may find this tool useful.
 
